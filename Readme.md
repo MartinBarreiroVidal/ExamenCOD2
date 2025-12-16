@@ -5,8 +5,7 @@ Martín Barreiro Vidal.
 
 ### APARTADO 1
 ![Captura_Clonado.png](CAPTURAS/Captura_Clonado.png)
-.
-El paso fundamental es asegurarnos de que el remoto origin apunta a un repositorio donde tengamos permisos de escritura.
+
 ---
 
 ## Instrucciones
@@ -20,9 +19,10 @@ El paso fundamental es asegurarnos de que el remoto origin apunta a un repositor
 ![Cambio_Realizado_Codigo.png](CAPTURAS/Cambio_Realizado_Codigo.png)
 - Modifica este Readme, poniendo tu nombre completo, realiza un `commit` con el mensaje *"Apartado 1"* y un `push`.
 
-Pregunta 
+Pregunta
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
 
+El paso fundamental es asegurarnos de que el remoto origin apunta a un repositorio donde tengamos permisos de escritura.
 ### Apartado 2
 
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
@@ -40,7 +40,7 @@ Pregunta
   **Añadido Comentario Apartado3** 
 ![Añadido Comentario Apartado 3.png](CAPTURAS/A%C3%B1adido%20Comentario%20Apartado%203.png)
 - Utiliza pull para descargar los cambios realizados en tu repositorio.
-
+![Apartado 3 - Pull Realizado.png](CAPTURAS/Apartado%203%20-%20Pull%20Realizado.png)
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
