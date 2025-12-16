@@ -37,7 +37,8 @@ Pregunta
 ### Apartado 3
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
-  **Añadido Comentario Apartado3** . 
+  **Añadido Comentario Apartado3** 
+![Añadido Comentario Apartado 3.png](CAPTURAS/A%C3%B1adido%20Comentario%20Apartado%203.png)
 - Utiliza pull para descargar los cambios realizados en tu repositorio.
 
 Pregunta
