@@ -26,6 +26,9 @@ Pregunta
 ### Apartado 2
 
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
+
+  **Cambio realizado**
+  
 - Utiliza fetch para descargar los cambios realizados en tu repositorio.
 
 Pregunta
