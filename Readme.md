@@ -6,6 +6,7 @@ Martín Barreiro Vidal.
 ### APARTADO 1
 ![Captura_Clonado.png](CAPTURAS/Captura_Clonado.png)
 .
+El paso fundamental es asegurarnos de que el remoto origin apunta a un repositorio donde tengamos permisos de escritura.
 ---
 
 ## Instrucciones
@@ -16,6 +17,7 @@ Martín Barreiro Vidal.
 ### Apartado 1
 
 - Clona este repositorio.
+![Cambio_Realizado_Codigo.png](CAPTURAS/Cambio_Realizado_Codigo.png)
 - Modifica este Readme, poniendo tu nombre completo, realiza un `commit` con el mensaje *"Apartado 1"* y un `push`.
 
 Pregunta 
@@ -28,7 +30,7 @@ Pregunta
 
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
-
+![Pregunta_Apartado2.png](CAPTURAS/Pregunta_Apartado2.png)
 ### Apartado 3
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
