@@ -1,6 +1,10 @@
 # Examen 1ª Evaluación (2ª Parte) - Control de Versiones
 
-Martín Barreiro Vidal
+Martín Barreiro Vidal.
+
+
+### APARTADO 1
+![Captura_Clonado.png](CAPTURAS/Captura_Clonado.png)
 ---
 
 ## Instrucciones
